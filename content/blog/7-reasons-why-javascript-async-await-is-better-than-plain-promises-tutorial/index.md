@@ -1,7 +1,7 @@
 ---
 title: 7 Reasons Why JavaScript Async/Await Is Better Than Plain Promises (Tutorial)
 date: "2017-03-07T00:00:00.000Z"
-description:
+description: ""
 ---
 
 Async/await was introduced in NodeJS 7.6 and is currently supported in all modern browsers. I believe it has been the single greatest addition to JS since 2017. If you are not convinced, here are a bunch of reasons with examples why you should adopt it immediately and never look back.

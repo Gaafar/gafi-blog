@@ -1,7 +1,7 @@
 ---
 title: 7 Exciting New JavaScript Features You Need to Know
 date: "2019-08-05T00:00:00.000Z"
-description:
+description: ""
 ---
 
 This article has been translated to Japanese by [@rana_kualu](https://twitter.com/rana_kualu) here [https://qiita.com/rana_kualu/items/ee7694aa1cd4ae7f4483](https://qiita.com/rana_kualu/items/ee7694aa1cd4ae7f4483)
